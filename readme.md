@@ -1,40 +1,5 @@
  display: flex;
-            justify-content: center;
-            align-items: center;
-            height: 100vh;
-            margin: 0;
-            background-color: #f0f0f0; /* হালকা ধূসর ব্যাকগ্রাউন্ড */
-        }
-        .image-container {
-            border: 5px solid #333; /* ছবির চারপাশে একটি ফ্রেম */
-            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* হালকা ছায়া */
-            max-width: 90%; /* কনটেইনারের সর্বোচ্চ প্রস্থ */
-            padding: 10px;
-            background-color: white;
-        }
-        .uploaded-image {
-            max-width: 100%; /* কনটেইনারের মধ্যে ছবিটি ফিট হবে */
-            height: auto;
-            display: block; /* ডিসপ্লে ব্লক করা হয়েছে */
-            border-radius: 8px; /* কোণগুলি গোলাকার করা হয়েছে */
-        }
-        h1 {
-            text-align: center;
-            color: #333;
-            margin-bottom: 20px;
-        }
-    </style>
-</head>
-<body>
-
-    <div class="image-container">
-        <h1>আপলোড করা ছবিটি</h1>
-        <img src="Photoleap_05_05_2024_23_20_01_DFa17.jpg" alt="ট্র্যাকের উপর দাঁড়ানো একজন ব্যক্তির ছবি" class="uploaded-image">
-        <p style="text-align: center; margin-top: 15px;">**সাবধানতা:** ছবিটিতে ব্যক্তিটিকে রেল ট্র্যাকের উপর দেখা যাচ্ছে। নিরাপত্তার জন্য রেল ট্র্যাক বা বিপজ্জনক স্থানে ছবি তোলা থেকে বিরত থাকুন।</p>
-    </div>
-
-</body>
-</html>
+    [![Photoleap-05-05-2024-23-20-01-DFa17.jpg](https://i.postimg.cc/WbJ3wYtD/Photoleap-05-05-2024-23-20-01-DFa17.jpg)](https://postimg.cc/4mssJ56Z)
 
 ## Nisho Milton Roy 
 
