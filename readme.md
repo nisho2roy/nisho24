@@ -15,7 +15,7 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 
 ## Learning Laravel
 
-Laravel has the most extensive and thorough [documentation](https://laravel.com/docs) and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+Laravel has the most extensive and thorough [documentation][![Photoleap-05-05-2024-23-20-01-DFa17.jpg](https://i.postimg.cc/WbJ3wYtD/Photoleap-05-05-2024-23-20-01-DFa17.jpg)](https://postimg.cc/4mssJ56Z)and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
 
 If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1400 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
 
