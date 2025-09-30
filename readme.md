@@ -1,13 +1,4 @@
-<!DOCTYPE html>
-<html lang="bn">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>ছবি প্রদর্শন</title>
-    <style>
-        /* CSS এর মাধ্যমে ছবিটিকে কেন্দ্র করা এবং আকার নিয়ন্ত্রণ করা হয়েছে */
-        body {
-            display: flex;
+ display: flex;
             justify-content: center;
             align-items: center;
             height: 100vh;
