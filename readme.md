@@ -1,11 +1,49 @@
-<p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ছবি প্রদর্শন</title>
+    <style>
+        /* CSS এর মাধ্যমে ছবিটিকে কেন্দ্র করা এবং আকার নিয়ন্ত্রণ করা হয়েছে */
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f0f0f0; /* হালকা ধূসর ব্যাকগ্রাউন্ড */
+        }
+        .image-container {
+            border: 5px solid #333; /* ছবির চারপাশে একটি ফ্রেম */
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2); /* হালকা ছায়া */
+            max-width: 90%; /* কনটেইনারের সর্বোচ্চ প্রস্থ */
+            padding: 10px;
+            background-color: white;
+        }
+        .uploaded-image {
+            max-width: 100%; /* কনটেইনারের মধ্যে ছবিটি ফিট হবে */
+            height: auto;
+            display: block; /* ডিসপ্লে ব্লক করা হয়েছে */
+            border-radius: 8px; /* কোণগুলি গোলাকার করা হয়েছে */
+        }
+        h1 {
+            text-align: center;
+            color: #333;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+<body>
 
-<p align="center">
-<a href="https://travis-ci.org/laravel/framework"><img src="https://travis-ci.org/laravel/framework.svg" alt="Build Status"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/d/total.svg" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/v/stable.svg" alt="Latest Stable Version"></a>
-<a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
-</p>
+    <div class="image-container">
+        <h1>আপলোড করা ছবিটি</h1>
+        <img src="Photoleap_05_05_2024_23_20_01_DFa17.jpg" alt="ট্র্যাকের উপর দাঁড়ানো একজন ব্যক্তির ছবি" class="uploaded-image">
+        <p style="text-align: center; margin-top: 15px;">**সাবধানতা:** ছবিটিতে ব্যক্তিটিকে রেল ট্র্যাকের উপর দেখা যাচ্ছে। নিরাপত্তার জন্য রেল ট্র্যাক বা বিপজ্জনক স্থানে ছবি তোলা থেকে বিরত থাকুন।</p>
+    </div>
+
+</body>
+</html>
 
 ## Nisho Milton Roy 
 
