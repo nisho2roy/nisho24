@@ -1,6 +1,27 @@
- display: flex;
+ Nisho Milton Roy
     [![Photoleap-05-05-2024-23-20-01-DFa17.jpg](https://i.postimg.cc/WbJ3wYtD/Photoleap-05-05-2024-23-20-01-DFa17.jpg)](https://postimg.cc/4mssJ56Z)
-
+   About
+‎👉ফ্রিল্যান্সার কী?👇
+‎ফ্রিল্যান্সার হলো সেই ব্যক্তি, যে কোনো নির্দিষ্ট কোম্পানিতে চাকরি না করে স্বাধীনভাবে কাজ করে। তিনি ক্লায়েন্টের কাজ নিয়ে নির্দিষ্ট পারিশ্রমিকে কাজ সম্পন্ন করে দেন। অনলাইনে এখন ফ্রিল্যান্সিং একটি জনপ্রিয় পেশা।
+‎
+‎ফ্রিল্যান্সাররা কী কী কাজ করেন?
+‎গ্রাফিক ডিজাইন (লোগো, ব্যানার, পোস্টার ইত্যাদি)
+‎
+‎👉ওয়েব ডেভেলপমেন্ট ও প্রোগ্রামিং👇
+‎
+‎ডিজিটাল মার্কেটিং (SEO, সোশ্যাল মিডিয়া ম্যানেজমেন্ট)
+‎
+‎কনটেন্ট রাইটিং ও আর্টিকেল লেখা
+‎
+‎ভিডিও এডিটিং ও অ্যানিমেশন
+‎
+‎ভার্চুয়াল অ্যাসিস্ট্যান্ট হিসেবে কাজ
+‎
+‎ফ্রিল্যান্সিং এর সুবিধা:
+‎✅ নিজের সময় অনুযায়ী কাজ করা যায়
+‎✅ ঘরে বসেই আয় করা যায়
+‎✅ সারা বিশ্বের ক্লায়েন্টদের সাথে কাজ করার সুযোগ
+‎✅ অভিজ্ঞতা অনুযায়ী আয়ও বাড়ে
 ## Nisho Milton Roy 
 
 Laravel is a web application framework with expressive, elegant syntax. We believe development must be an enjoyable and creative experience to be truly fulfilling. Laravel takes the pain out of development by easing common tasks used in many web projects, such as:
@@ -15,7 +36,7 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 
 ## Learning Laravel
 
-Laravel has the most extensive and thorough [documentation][![Photoleap-05-05-2024-23-20-01-DFa17.jpg](https://i.postimg.cc/WbJ3wYtD/Photoleap-05-05-2024-23-20-01-DFa17.jpg)](https://postimg.cc/4mssJ56Z)and video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
+Laravel has the most extensive and thorough [documentation][!video tutorial library of all modern web application frameworks, making it a breeze to get started with the framework.
 
 If you don't feel like reading, [Laracasts](https://laracasts.com) can help. Laracasts contains over 1400 video tutorials on a range of topics including Laravel, modern PHP, unit testing, and JavaScript. Boost your skills by digging into our comprehensive video library.
 
