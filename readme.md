@@ -1,5 +1,5 @@
 ## Nisho Milton Roy
-    <a href="https://ibb.co.com/ccb5mvmx"><img src="https://i.ibb.co.com/rGbPWtWv/1761619676466.jpg" alt="1761619676466" border="0"></a>
+    <a href='https://postimg.cc/K4B6T548' target='_blank'><img src='https://i.postimg.cc/K4B6T548/1761619676466.jpg' border='0' alt='1761619676466'></a>
     
  # About
 ‎👉ফ্রিল্যান্সার কী?👇
